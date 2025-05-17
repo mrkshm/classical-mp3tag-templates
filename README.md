@@ -37,7 +37,9 @@ Convert -> Text File - Tag ...
 %composer% | %WORK% - %movement%/%movementtotal% %movementname
 
 ### Transform generated tags to nice file names
+(maybe run Assign Track Numbers before continuing)
 Convert -> Tag - Filename
+%track% %work% - %movement% %movementname%
 
 ## Repository Structure
 
