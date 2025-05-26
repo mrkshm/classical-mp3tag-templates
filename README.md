@@ -34,7 +34,7 @@ All templates follow these formatting rules:
 
 ### Transform these files into tags
 Convert -> Text File - Tag ...
-%composer% | %WORK% - %movement%/%movementtotal% %movementname
+%composer% | %WORK% - %movement%/%movementtotal% %movementname%
 
 ### Transform generated tags to nice file names
 (maybe run Assign Track Numbers before continuing)
