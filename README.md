@@ -54,7 +54,7 @@ The repository is organized hierarchically by composer and work type:
   /Sonatas
   /Symphonies
 /Brahms
-  /PianoConcertos
+  /Concertos
   /Symphonies
 ...
 ```
